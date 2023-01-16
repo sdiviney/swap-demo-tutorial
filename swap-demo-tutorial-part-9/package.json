@@ -1,0 +1,16 @@
+{
+  "name": "swap-demo-tutorial",
+  "version": "1.0.0",
+  "description": "Alchemy Swap Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^9.1.1",
+    "qs": "^6.11.0",
+    "web3": "^1.8.1"
+  }
+}
